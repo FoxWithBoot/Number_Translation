@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Perevodchik.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+MyForm.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+c:\users\михаил\desktop\мирэа\2 курс\аод\курсач\проект7\проект7\perevod.h(69): warning C4715: Chislo::Kod: значение возвращается не при всех путях выполнения
+c:\users\михаил\desktop\мирэа\2 курс\аод\курсач\проект7\проект7\perevod.h(73): warning C4715: Chislo::ReKod: значение возвращается не при всех путях выполнения
+  Проект7.vcxproj -> C:\Users\Михаил\Desktop\МИРЭА\2 курс\АОД\Курсач\Проект7\Release\Integer converter.exe
+  Проект7.vcxproj -> C:\Users\Михаил\Desktop\МИРЭА\2 курс\АОД\Курсач\Проект7\Release\Integer converter.pdb (Full PDB)
